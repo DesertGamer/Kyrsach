@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Kursach</string>
+    <string name="a">ГЕОМЕТРИЧЕСКИЙ КАЛЬКУЛЯТОР</string>
+    <string name="b">Плоские фигуры</string>
+    <string name="c">Объемные фигуры</string>
+    <string name="title_activity_obemny_f">ObemnyF</string>
+    <string name="trup">Трапеция</string>
+    <string name="mnogo">Многоугольники</string>
+    <string name="pryam">Прямоугольник</string>
+    <string name="romb">Ромб</string>
+    <string name="krug">Круг</string>
+    <string name="elips">Элипс</string>
+    <string name="kv">Квадрат</string>
+    <string name="elips2">Эллипсоид</string>
+    <string name="paral">Параллелепипед</string>
+    <string name="shar">Шар</string>
+    <string name="kub">Куб</string>
+    <string name="pir">Пирамида</string>
+    <string name="oktaedr">Октаэдр</string>
+    <string name="prizma">Призма</string>
+    <string name="tor">Тор</string>
+    <string name="Obemy">Oбъемные фигуры</string>
+    <string name="Mnogoug2">Правильный -\n многоугольник</string>
+    <string name="Treug">Треугольник</string>
+    <string name="Back">Назад</string>
+    <string name="Vvod">Введите известную переменную</string>
+    <string name="TextVvod">Ввод</string>
+    <string name="Vish">Вычислить</string>
+    <string name="r">Радиус</string>
+    <string name="d">Диаметр</string>
+    <string name="S">Площадь</string>
+    <string name="P">Окружность</string>
+
+
+<!--спиннер для КРУГА-->
+<!--    <string-array name="spinner1">-->
+<!--        <item>r (радиус)</item>-->
+<!--        <item>d (диаметр)</item>-->
+<!--        <item>S (площадь)</item>-->
+<!--        <item>P (окружость)</item>-->
+<!--    </string-array>-->
+
+    <string name="a1">Сторона</string>
+    <string name="d2">Диагональ</string>
+    <string name="S2">Площадь</string>
+    <string name="P2">Периметр</string>
+    <string name="r2">Радиус вписанной окружности</string>
+    <string name="R">Радиус описанной окружности</string>
+
+<!--    Спинер для -->
+    <string-array name="spinner2">
+        <item>a (сторона)</item>
+        <item>d (диагональ)</item>
+        <item>S (площадь)</item>
+        <item>P (периметр)</item>
+        <item>r (радиус вписанной окружности)</item>
+        <item>R (радиус описанной окружности)</item>
+    </string-array>
+
+<!--    <string-array name="spinner3">-->
+<!--        <item>a, b (полуоси)</item>-->
+<!--        <item>c, d (оси)</item>-->
+<!--    </string-array>-->
+
+    <string-array name="spinner4">
+        <item>a, b (стороны)</item>
+        <item>P, b или а (площадь и сторона)</item>
+        <item>d, b или а (диагональ и сторона)</item>
+        <item>P, b (периметр и диагональ)</item>
+    </string-array>
+    <string-array name="spinner5">
+        <item>a (сторона)</item>
+        <item>h (высота)</item>
+        <item>d (диагональ)</item>
+        <item>P (периметр)</item>
+        <item>S (площадь)</item>
+    </string-array>
+    <string-array name="spinner6">
+        <item>a, h (сторона и высота)</item>
+        <item>P, a (площадь и сторона)</item>
+        <item>P, d (площадь и диагональ)</item>
+        <item>d, a (диагональ и сторона)</item>
+    </string-array>
+
+
+
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
